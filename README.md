@@ -1,4 +1,3 @@
-
 #include<stdio.h>
 typedef struct complex{
     int c1;
@@ -45,3 +44,4 @@ break;
  while(o!=0);
     return 0;
 }
+
